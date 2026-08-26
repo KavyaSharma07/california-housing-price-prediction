@@ -83,5 +83,4 @@ The goal is to build a regression model that accurately predicts house prices us
 ## ✨ Author
 
 **Kavya Sharma**  
-Aspiring Data Analyst & Machine Learning Enthusiast  
-📫 *Connect with me on LinkedIn!*
+Aspiring Machine Learning Engineer  
