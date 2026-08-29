@@ -56,10 +56,10 @@ The goal is to build a regression model that accurately predicts house prices us
 
 ## 📈 Key Insights
 
-- `MedInc` (Median Income) is the most important feature.
-- `HouseAge` and `AveRooms` also strongly influence price.
-- Random Forest outperforms Linear Regression by capturing non-linear relationships.
-- Visualizations clearly show how well the model performs against actual data.
+- `MedInc` (Median Income) was identified as the most important feature based on feature importance analysis.
+- `HouseAge` and `AveRooms` also showed meaningful influence on predicted house prices.
+- Random Forest outperformed Linear Regression, indicating that the data contains non-linear relationships.
+- Correlation analysis and visualizations helped identify relationships between features and the target variable.
 
 ---
 
